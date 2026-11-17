@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DZAED</string>
+    <string name="nav_parties">Parties</string>
+    <string name="nav_cashflow">Cash Flow</string>
+    <string name="nav_receipts">Receipts</string>
+    <string name="add_new_party">+ Add New Party</string>
+    <string name="search_parties_hint">Search company, name, or phone…</string>
+    <string name="cash_payment_receipt_title">CASH PAYMENT RECEIPT</string>
+    <string name="record_transaction">Record Transaction</string>
+    <string name="view_download_receipt">View / Download Receipt</string>
+    <string name="export_monthly_report">Export Report</string>
+    <string name="business_settings">Business Settings</string>
+</resources>

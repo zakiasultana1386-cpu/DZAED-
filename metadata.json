@@ -1,0 +1,6 @@
+{
+  "name": "DZAED",
+  "description": "Business accounting, product piece inventory, party ledger, monthly cash flow tracker, and auto-generated cash payment receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
